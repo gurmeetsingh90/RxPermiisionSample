@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RxPermissions sample</string>
+    <string name="enable_camera">Enable camera</string>
+    <string name="permission">Permission</string>
+    <string name="ManinFragment">MAinFragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="two_fragment">Two Fragment</string>
+    <string name="three_fragment">Three Fragment</string>
+    <string name="four_fragment">Four Fragment</string>
+    <string name="five_fragment">Five Fragment</string>
+</resources>
